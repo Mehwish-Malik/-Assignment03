@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Arrow from "@/app/assets/Arrow.png";
 import ImgContainer from "@/app/assets/Imgcontainer.png";
-import groupimg from "@/app/assets/Worktogether.png"
+import Groupimg from "@/app/assets/Worktogether.png"
 
 const Management = () => {
   return (
@@ -45,7 +45,7 @@ const Management = () => {
     {/* Image Section */}
     <div className="w-full lg:w-1/2">
       <Image
-        src={groupimg}
+        src={Groupimg}
         alt="Group Image"
         className="w-full h-auto"
       />
