@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import Arrow from "@/app/assets/arrow.png"
+import Arrow from "@/app/assets/Arrow.png"
 const Task = () => {
   return (
     <div className="w-full h-auto py-[80px] px-5 md:py-[140px] md:px-[80px] lg:px-[220px] bg-[#043873] font-inter">

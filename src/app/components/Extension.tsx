@@ -1,6 +1,6 @@
 import Image from "next/image";
-import ImgContainer from "@/app/assets/imgcontainer.png";
-import Arrow from "@/app/assets/arrow.png"; 
+import ImgContainer from "@/app/assets/Imgcontainer.png";
+import Arrow from "@/app/assets/Arrow.png"; 
 
 const Extension = () => {
   return (

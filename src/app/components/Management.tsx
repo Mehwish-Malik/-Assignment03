@@ -1,6 +1,6 @@
 import Image from "next/image";
-import Arrow from "@/app/assets/arrow.png";
-import ImgContainer from "@/app/assets/imgcontainer.png";
+import Arrow from "@/app/assets/Arrow.png";
+import ImgContainer from "@/app/assets/Imgcontainer.png";
 import groupimg from "@/app/assets/Worktogether.png"
 
 const Management = () => {
